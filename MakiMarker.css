@@ -1,0 +1,26 @@
+.leaflet-styleeditor-makimarker-marker-wrapper {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+    mask-image: url(http://fupduck.github.io/MakiMarker/marker.svg);
+    -webkit-mask-image: url(http://fupduck.github.io/MakiMarker/marker.svg);
+
+    mask-size: contain;
+    -webkit-mask-size: contain;
+}
+
+.leaflet-styleeditor-makimarker-marker-icon {
+    background-color: white;
+    width: 42%;
+    height: 42%;
+
+    mask-size: contain;
+    -webkit-mask-size: contain;
+
+    margin: 10% auto 0;
+}
+
+.leaflet-styleeditor-makimarker-marker {
+    top: 15px;
+}
