@@ -21,6 +21,8 @@
     margin: 10% auto 0;
 }
 
+.leaflet-styleeditor-select-image-wrapper .leaflet-styleeditor-makimarker-marker,
 .leaflet-styleeditor-select .leaflet-styleeditor-makimarker-marker {
     top: 15px;
 }
+
